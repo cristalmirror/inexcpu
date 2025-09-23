@@ -1,7 +1,7 @@
 
 // cpu_monitor.cpp
 // Compile with: 
-//   Linux:   g++ -std=c++17 -O2 inexcpu.cpp -o inexcpu
+//   Linux:   g++ -std=c++17 -O2 cpu_monitor.cpp -o cpu_monitor
 //   Windows: cl /std:c++17 /O2 cpu_monitor.cpp PowrProf.lib
 //            (o con MinGW: g++ -std=c++17 -O2 cpu_monitor.cpp -o cpu_monitor -lPowrProf)
 // Nota: En Windows requiere PowrProf.lib para leer MHz por núcleo.
